@@ -1,2 +1,2 @@
 # Eniac_Business_Strategy
-Data Cleaning, Data Quality and Data Analysis for E-Commerce Tech Company
+Data Cleaning, Data Quality and Data Analysis using Python for E-Commerce Tech Company
